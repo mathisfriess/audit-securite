@@ -1,3 +1,19 @@
-# Répertoire d'uploads pour le TP
-*
+# Base de données
+*.db
+
+# Config locale
+config.php
+
+# Uploads utilisateur
+uploads/
+uploads/**
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.bak
+
+# On garde le .gitignore
 !.gitignore
